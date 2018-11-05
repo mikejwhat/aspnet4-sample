@@ -1,5 +1,4 @@
 # ContactFinderBot
-### Build Status
 
 | AppVeyor (Windows)       | Travis CI (Linux / macOS) |
 |--------------------------|--------------------------|
