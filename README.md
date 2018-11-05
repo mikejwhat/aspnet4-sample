@@ -8,4 +8,4 @@
 
 Repo for ContactFinderBot PoC
 
-https://nottinghamtrent.visualstudio.com/ContactFinderBot/_apis/build/status/ContactFinderBot-ASP.NET%20Core-CI?branchName=develop
+[![Build status](https://nottinghamtrent.visualstudio.com/ContactFinderBot/_apis/build/status/ContactFinderBot-ASP.NET%20Core-CI?branchName=develop)](https://nottinghamtrent.visualstudio.com/ContactFinderBot/_build/latest?definitionId=6)
